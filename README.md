@@ -1,5 +1,7 @@
 # hello-data-jupyter
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Noura/hello-data-jupyter)
+
 adding data in a jupyter notebook
 
 playing around with loading data in different ways
